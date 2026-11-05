@@ -21,13 +21,12 @@ I'm **Luan Nguyen**, an Information Technology student at **HCMUNRE** in Ho Chi 
 
 - 🔧 Building backend systems with **Node.js, NestJS, and Fastify**.
 - 🗃️ Working with **PostgreSQL, MongoDB, and Redis**.
-- 🌱 Leveling up in **system design, database optimization, and asynchronous processing**.
+- 🌱 Leveling up in **system design, design pattern, database optimization, and asynchronous processing**.
 - 🤝 Happy to connect over backend development, learning, and interesting projects.
 
 ```typescript
 const luan = {
   class: "Backend Developer",
-  education: "HCMUNRE · Information Technology · 2024–2028",
   mainQuest: "Build reliable systems. Keep learning.",
   inventory: ["TypeScript", "Node.js", "Java", "SQL"],
   currentBuild: ["REST APIs", "Databases", "Background jobs"],
